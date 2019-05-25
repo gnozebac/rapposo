@@ -1,0 +1,576 @@
+C:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.exe
+C:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.pdb
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Properties.Resources.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.exe
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.pdb
+C:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Mono.Security.dll
+C:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Npgsql.dll
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.MDIParent1.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Familia.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Form1.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.NotadeVenta.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.peliculas.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Productos.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.VentaPeliculas.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AnularVentaPeliculas.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factura.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.GenerarListadoPrecios.resources
+C:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.exe.config
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.pruebacristal2.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmBuscarProducto.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.BuscarClienteFac.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.cobrarNV.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Reportes.FrmNotaVentaGenerl.resources
+C:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Reportes.GenerarNotaVentaDia.resources
+D:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.exe.config
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.exe
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.pdb
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AnularVentaPeliculas.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.BuscarClienteFac.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.cobrarNV.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factura.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Familia.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Form1.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmBuscarProducto.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.GenerarListadoPrecios.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.MDIParent1.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.NotadeVenta.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.peliculas.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Productos.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Properties.Resources.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.pruebacristal2.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Reportes.GenerarNotaVentaDia.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.VentaPeliculas.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.exe
+D:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.pdb
+D:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Mono.Security.dll
+D:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Npgsql.dll
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrVentaxdia.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.CodCNB.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AperturaCaja.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirosCaja.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ProdFac.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.IngresosCaja.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.VerTotalesCaja.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirosDetalle.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Recargas.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ResumenRecargas.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Prueba.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Imprimirfactura.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmRepVentasDetalle.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Clases.FrmCrtRepstock0.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.DEUDAS.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ImpListaprecios.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.vuetos.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.tmp_reportestock.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirarCaja.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmCrystalReport2.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\PostgreDB_Backup_Restore.Form1.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\PostgreDB_Backup_Restore.Form2.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.respaldar.resources
+D:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AnularVenta.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.exe.config
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.exe
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.pdb
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.exe
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.pdb
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Mono.Security.dll
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Npgsql.dll
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AnularVenta.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.DEUDAS.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Clases.FrmCrtRepstock0.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmCrystalReport2.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmRepVentasDetalle.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ImpListaprecios.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Imprimirfactura.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Prueba.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Recargas.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AnularVentaPeliculas.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AperturaCaja.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.BuscarClienteFac.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.cobrarNV.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.CodCNB.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factura.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Familia.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Form1.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmBuscarProducto.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrVentaxdia.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.GenerarListadoPrecios.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.IngresosCaja.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.MDIParent1.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.NotadeVenta.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.peliculas.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ProdFac.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Productos.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Properties.Resources.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.pruebacristal2.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Reportes.GenerarNotaVentaDia.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.respaldar.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\PostgreDB_Backup_Restore.Form1.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\PostgreDB_Backup_Restore.Form2.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ResumenRecargas.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirarCaja.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirosCaja.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirosDetalle.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.tmp_reportestock.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.VentaPeliculas.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.VerTotalesCaja.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.vuetos.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.csproj.GenerateResource.Cache
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FormTRX.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Facturar.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Form1no.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.undolar.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.CrtXrepcategoria.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.frmRepMes.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.crtcobrosa.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Proveedor.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factura_compras.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Impcompras.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.facturapequ.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factprint.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FormTRX_guay.resources
+D:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.csprojResolveAssemblyReference.cache
+E:\RaposoFact\RaposoFact\bin\Debug\RaposoFact.exe.config
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.exe
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.pdb
+E:\RaposoFact\RaposoFact\bin\Debug\RaposoFact.exe
+E:\RaposoFact\RaposoFact\bin\Debug\RaposoFact.pdb
+E:\RaposoFact\RaposoFact\bin\Debug\Mono.Security.dll
+E:\RaposoFact\RaposoFact\bin\Debug\Npgsql.dll
+E:\RaposoFact\RaposoFact\bin\Debug\stdole.dll
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AnularVenta.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.crtcobrosa.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.CrtXrepcategoria.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.DEUDAS.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factprint.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.facturapequ.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Facturar.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factura_compras.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Form1no.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FormTRX.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FormTRX_guay.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Clases.FrmCrtRepstock0.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmCrystalReport2.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.frmRepMes.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmRepVentasDetalle.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Impcompras.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ImpListaprecios.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Imprimirfactura.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Proveedor.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Prueba.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Recargas.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AnularVentaPeliculas.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AperturaCaja.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.BuscarClienteFac.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.cobrarNV.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.CodCNB.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factura.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Familia.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Form1.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmBuscarProducto.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrVentaxdia.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.GenerarListadoPrecios.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.IngresosCaja.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.MDIParent1.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.NotadeVenta.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.peliculas.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ProdFac.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Productos.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Properties.Resources.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.pruebacristal2.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Reportes.GenerarNotaVentaDia.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.respaldar.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\PostgreDB_Backup_Restore.Form1.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\PostgreDB_Backup_Restore.Form2.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ResumenRecargas.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirarCaja.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirosCaja.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirosDetalle.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.tmp_reportestock.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.undolar.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.VentaPeliculas.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.VerTotalesCaja.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.vuetos.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.csproj.GenerateResource.Cache
+E:\RaposoFact\RaposoFact\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\RaposoFact\RaposoFact\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.Shared.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\RaposoFact\RaposoFact\bin\Debug\FlashControlV71.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\RaposoFact\RaposoFact\bin\Debug\ShockwaveFlashObjects.dll
+E:\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.csprojResolveAssemblyReference.cache
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmNotaventapeq.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.PrintPricer.resources
+E:\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ReportPrecioyStock.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\RaposoFact.exe.config
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.exe
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.pdb
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.csprojResolveAssemblyReference.cache
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.AnularVenta.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.crtcobrosa.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.CrtXrepcategoria.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.DEUDAS.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Factprint.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.facturapequ.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Facturar.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Factura_compras.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Form1no.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.FormTRX.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.FormTRX_guay.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Clases.FrmCrtRepstock0.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.FrmCrystalReport2.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.FrmNotaventapeq.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.frmRepMes.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.FrmRepVentasDetalle.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Impcompras.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.ImpListaprecios.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Imprimirfactura.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.PrintPricer.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Proveedor.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Prueba.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Recargas.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.AnularVentaPeliculas.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.AperturaCaja.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.BuscarClienteFac.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.cobrarNV.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.CodCNB.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Factura.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Familia.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Form1.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.FrmBuscarProducto.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.FrVentaxdia.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.GenerarListadoPrecios.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.IngresosCaja.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.MDIParent1.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.NotadeVenta.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.peliculas.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.ProdFac.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Productos.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Properties.Resources.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.pruebacristal2.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.Reportes.GenerarNotaVentaDia.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.ReportPrecioyStock.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.respaldar.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\PostgreDB_Backup_Restore.Form1.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\PostgreDB_Backup_Restore.Form2.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.ResumenRecargas.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.RetirarCaja.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.RetirosCaja.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.RetirosDetalle.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.tmp_reportestock.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.undolar.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.VentaPeliculas.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.VerTotalesCaja.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.vuetos.resources
+E:\RaposoFact\RaposoFact (6)\RaposoFact\obj\x86\Debug\RaposoFact.csproj.GenerateResource.Cache
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\RaposoFact.exe
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\RaposoFact.pdb
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.Shared.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\FlashControlV71.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\Mono.Security.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\Npgsql.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\ShockwaveFlashObjects.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\RaposoFact\RaposoFact (6)\RaposoFact\bin\Debug\stdole.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.exe.config
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.exe
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.pdb
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.exe
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.pdb
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.Shared.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\FlashControlV71.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Mono.Security.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Npgsql.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\ShockwaveFlashObjects.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\RaposoFact\RaposoFact\RaposoFact\bin\Debug\stdole.dll
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.csprojResolveAssemblyReference.cache
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AnularVenta.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.crtcobrosa.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.CrtXrepcategoria.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.DEUDAS.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factprint.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.facturapequ.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Facturar.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factura_compras.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Form1no.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FormTRX.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FormTRX_guay.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Clases.FrmCrtRepstock0.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmCrystalReport2.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmNotaventapeq.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.frmRepMes.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmRepVentasDetalle.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Impcompras.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ImpListaprecios.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Imprimirfactura.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.PrintPricer.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Proveedor.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Prueba.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Recargas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AnularVentaPeliculas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AperturaCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.BuscarClienteFac.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.cobrarNV.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.CodCNB.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factura.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Familia.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Form1.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmBuscarProducto.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrVentaxdia.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.GenerarListadoPrecios.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.IngresosCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.MDIParent1.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.NotadeVenta.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.peliculas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ProdFac.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Productos.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Properties.Resources.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.pruebacristal2.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Reportes.GenerarNotaVentaDia.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ReportPrecioyStock.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.respaldar.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\PostgreDB_Backup_Restore.Form1.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\PostgreDB_Backup_Restore.Form2.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ResumenRecargas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirarCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirosCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirosDetalle.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.tmp_reportestock.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.undolar.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.VentaPeliculas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.VerTotalesCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.vuetos.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.csproj.GenerateResource.Cache
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmProductomasVendido.resources
+E:\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FRMbus.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.exe.config
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.csprojResolveAssemblyReference.cache
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AnularVenta.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.crtcobrosa.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.CrtXrepcategoria.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.DEUDAS.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factprint.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.facturapequ.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Facturar.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factura_compras.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Form1no.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FormTRX.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FormTRX_guay.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.frmBus.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Clases.FrmCrtRepstock0.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmCrystalReport2.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmFactura.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmNotaventapeq.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmProductomasVendido.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.frmRepMes.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmRepVentasDetalle.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Impcompras.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ImpListaprecios.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Imprimirfactura.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.PrintPricer.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Proveedor.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Prueba.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Recargas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AnularVentaPeliculas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AperturaCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.BuscarClienteFac.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.cobrarNV.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.CodCNB.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factura.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Familia.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Form1.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmBuscarProducto.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrVentaxdia.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.GenerarListadoPrecios.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.IngresosCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.MDIParent1.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.NotadeVenta.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.peliculas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ProdFac.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Productos.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Properties.Resources.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.pruebacristal2.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Reportes.GenerarNotaVentaDia.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ReportPrecioyStock.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.respaldar.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\PostgreDB_Backup_Restore.Form1.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\PostgreDB_Backup_Restore.Form2.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ResumenRecargas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirarCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirosCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirosDetalle.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.tmp_reportestock.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.undolar.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.VentaPeliculas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.VerTotalesCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.vuetos.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.csproj.GenerateResource.Cache
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.exe
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.pdb
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.Shared.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\FlashControlV71.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Mono.Security.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Npgsql.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\ShockwaveFlashObjects.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\stdole.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.exe
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.pdb
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.exe.config
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.exe
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.pdb
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.exe
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\RaposoFact.pdb
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.Shared.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\FlashControlV71.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Mono.Security.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\Npgsql.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\ShockwaveFlashObjects.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\bin\Debug\stdole.dll
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AnularVenta.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.crtcobrosa.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.CrtXrepcategoria.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.DEUDAS.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factprint.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.facturapequ.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Facturar.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factura_compras.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Form1no.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FormTRX.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FormTRX_guay.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.frmBus.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Clases.FrmCrtRepstock0.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmCrystalReport2.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmFactura.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmNotaventapeq.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmProductomasVendido.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.frmRepMes.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmRepVentasDetalle.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Impcompras.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ImpListaprecios.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Imprimirfactura.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.PrintPricer.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Proveedor.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Prueba.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Recargas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AnularVentaPeliculas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.AperturaCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.BuscarClienteFac.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.cobrarNV.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.CodCNB.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Factura.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Familia.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Form1.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrmBuscarProducto.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.FrVentaxdia.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.GenerarListadoPrecios.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.IngresosCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.MDIParent1.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.NotadeVenta.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.peliculas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ProdFac.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Productos.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Properties.Resources.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.pruebacristal2.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.Reportes.GenerarNotaVentaDia.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ReportPrecioyStock.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.respaldar.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\PostgreDB_Backup_Restore.Form1.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\PostgreDB_Backup_Restore.Form2.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.ResumenRecargas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirarCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirosCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.RetirosDetalle.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.tmp_reportestock.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.undolar.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.VentaPeliculas.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.VerTotalesCaja.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.vuetos.resources
+E:\RaposoFact\RaposoFact\RaposoFact\RaposoFact\RaposoFact\obj\x86\Debug\RaposoFact.csproj.GenerateResource.Cache
